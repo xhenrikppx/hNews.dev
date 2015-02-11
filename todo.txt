@@ -1,0 +1,3 @@
+1. simple layout of articles
+2. pull articles from a json object
+3. multiple articles
